@@ -58,7 +58,7 @@ class List extends Component{
     }
 
     componentDidMount(){
-        this.setState({tasks: ls.get('tasks')})
+        this.setState({tasks: ls.get('tasks') || []})
     }
 
     updateDraft = event => {
