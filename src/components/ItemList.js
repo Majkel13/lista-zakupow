@@ -25,7 +25,7 @@ class ItemList extends Component{
     render(){
         const {text} = this.props;
         return(
-        <Item onClick={this.toggleDone} done={this.state.done} title="Oznacz jeśli kupione">{text}</Item>
+        <Item  done={this.state.done} title="Oznacz jeśli kupione">{text}</Item>
         )
     }
 }
