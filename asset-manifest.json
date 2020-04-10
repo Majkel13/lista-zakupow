@@ -1,13 +1,13 @@
 {
-  "main.css": "/lista-zakupow/static/css/main.a6dbeaa1.chunk.css",
-  "main.js": "/lista-zakupow/static/js/main.fa7d774b.chunk.js",
-  "main.js.map": "/lista-zakupow/static/js/main.fa7d774b.chunk.js.map",
+  "main.css": "/lista-zakupow/static/css/main.ef25a1d7.chunk.css",
+  "main.js": "/lista-zakupow/static/js/main.dc01e904.chunk.js",
+  "main.js.map": "/lista-zakupow/static/js/main.dc01e904.chunk.js.map",
   "runtime~main.js": "/lista-zakupow/static/js/runtime~main.31c5f19e.js",
   "runtime~main.js.map": "/lista-zakupow/static/js/runtime~main.31c5f19e.js.map",
   "static/js/2.d065459d.chunk.js": "/lista-zakupow/static/js/2.d065459d.chunk.js",
   "static/js/2.d065459d.chunk.js.map": "/lista-zakupow/static/js/2.d065459d.chunk.js.map",
   "index.html": "/lista-zakupow/index.html",
-  "precache-manifest.a97c9f676f3e7f09622003512dd1d837.js": "/lista-zakupow/precache-manifest.a97c9f676f3e7f09622003512dd1d837.js",
+  "precache-manifest.c6f01c7e4ffb0c5c7a0d6d517c56d41e.js": "/lista-zakupow/precache-manifest.c6f01c7e4ffb0c5c7a0d6d517c56d41e.js",
   "service-worker.js": "/lista-zakupow/service-worker.js",
-  "static/css/main.a6dbeaa1.chunk.css.map": "/lista-zakupow/static/css/main.a6dbeaa1.chunk.css.map"
+  "static/css/main.ef25a1d7.chunk.css.map": "/lista-zakupow/static/css/main.ef25a1d7.chunk.css.map"
 }

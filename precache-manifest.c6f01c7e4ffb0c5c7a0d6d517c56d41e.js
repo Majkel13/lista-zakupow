@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "34437e3a587bebcecb6d",
-    "url": "/lista-zakupow/static/css/main.a6dbeaa1.chunk.css"
+    "revision": "436c4523ccd9f3fa3b24",
+    "url": "/lista-zakupow/static/css/main.ef25a1d7.chunk.css"
   },
   {
-    "revision": "34437e3a587bebcecb6d",
-    "url": "/lista-zakupow/static/js/main.fa7d774b.chunk.js"
+    "revision": "436c4523ccd9f3fa3b24",
+    "url": "/lista-zakupow/static/js/main.dc01e904.chunk.js"
   },
   {
     "revision": "af4a4d4432e66a2352ac",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/lista-zakupow/static/js/2.d065459d.chunk.js"
   },
   {
-    "revision": "84c6bbb2fe9f42c8a12e3a43624866bf",
+    "revision": "b4caf5a8d257d0e61b54b54bb8a5c48b",
     "url": "/lista-zakupow/index.html"
   }
 ];
