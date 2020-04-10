@@ -1,13 +1,13 @@
 {
   "main.css": "/lista-zakupow/static/css/main.ef25a1d7.chunk.css",
-  "main.js": "/lista-zakupow/static/js/main.dc01e904.chunk.js",
-  "main.js.map": "/lista-zakupow/static/js/main.dc01e904.chunk.js.map",
+  "main.js": "/lista-zakupow/static/js/main.fdf003fe.chunk.js",
+  "main.js.map": "/lista-zakupow/static/js/main.fdf003fe.chunk.js.map",
   "runtime~main.js": "/lista-zakupow/static/js/runtime~main.31c5f19e.js",
   "runtime~main.js.map": "/lista-zakupow/static/js/runtime~main.31c5f19e.js.map",
   "static/js/2.d065459d.chunk.js": "/lista-zakupow/static/js/2.d065459d.chunk.js",
   "static/js/2.d065459d.chunk.js.map": "/lista-zakupow/static/js/2.d065459d.chunk.js.map",
   "index.html": "/lista-zakupow/index.html",
-  "precache-manifest.c6f01c7e4ffb0c5c7a0d6d517c56d41e.js": "/lista-zakupow/precache-manifest.c6f01c7e4ffb0c5c7a0d6d517c56d41e.js",
+  "precache-manifest.f32ba1c323a43e20741c7437222e6ef2.js": "/lista-zakupow/precache-manifest.f32ba1c323a43e20741c7437222e6ef2.js",
   "service-worker.js": "/lista-zakupow/service-worker.js",
   "static/css/main.ef25a1d7.chunk.css.map": "/lista-zakupow/static/css/main.ef25a1d7.chunk.css.map"
 }
