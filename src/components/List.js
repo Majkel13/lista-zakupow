@@ -7,21 +7,21 @@ const Container = styled.div`
 
 
 border: 1px solid #1969ba;
-    border-radius: 10px;
-    background: #1969ba;
-    background: -webkit-linear-gradient(top, #1969ba 0, #0f4174 100%);
-    background: linear-gradient(to bottom, #1969ba 0, #0f4174 100%);
-    -webkit-box-shadow: inset 0px 1px 1px 0px #A2D1FF;
-    box-shadow: inset 0px 1px 1px 0px #A2D1FF;
-    padding: 20px;
-    color: #fff;
-    font-size: 15px;
-    line-height: 1.54em;
-    padding: 20px;
-    margin: 0 auto;
-    margin-top: 30px;
-    max-width: 680px;
-    width: 80%;
+border-radius: 10px;
+background: #1969ba;
+background: -webkit-linear-gradient(top, #1969ba 0, #0f4174 100%);
+background: linear-gradient(to bottom, #1969ba 0, #0f4174 100%);
+-webkit-box-shadow: inset 0px 1px 1px 0px #A2D1FF;
+box-shadow: inset 0px 1px 1px 0px #A2D1FF;
+padding: 20px;
+color: #fff;
+font-size: 15px;
+line-height: 1.54em;
+padding: 20px;
+margin: 0 auto;
+margin-top: 30px;
+max-width: 680px;
+width: 80%;
 `
 
 const Header = styled.h1`
@@ -29,11 +29,10 @@ const Header = styled.h1`
  text-align:center;
 `
 const Delete = styled.div`
-color: #b13418;
-
+color: #d00;
 
 :hover{
-    color: #dd1111;
+    color: #f00;
     cursor: pointer;
 }
 `
@@ -49,7 +48,7 @@ margin-top: 7px;
 const Item = styled.div`
 
 cursor: pointer;
-color: ${props => props.done ? 'black' : '#d572a0'};
+color: ${props => props.done ? 'black' : '#FFFEB6'};
 text-decoration: ${props => props.done ? `line-through` : 'auto'};
 `
 

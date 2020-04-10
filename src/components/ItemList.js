@@ -1,12 +1,6 @@
 import React, { Component } from 'react';
-import styled from 'styled-components';
 
-const Item = styled.div`
 
-cursor: pointer;
-color: ${props => props.done ? 'black' : '#FFFEB6'};
-text-decoration: ${props => props.done ? `line-through` : 'auto'};
-`
 
 class ItemList extends Component{
 
@@ -25,7 +19,7 @@ class ItemList extends Component{
     render(){
         const {text} = this.props;
         return(
-        <Item  done={this.state.done} title="Oznacz jeśli kupione">{text}</Item>
+        <div  done={this.state.done} title="Oznacz jeśli kupione">{text}</div>
         )
     }
 }
