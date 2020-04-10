@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Item = styled.div`
 
 cursor: pointer;
-color: ${props => props.done ? 'black' : '#d572a0'};
+color: ${props => props.done ? 'black' : '#FFFEB6'};
 text-decoration: ${props => props.done ? `line-through` : 'auto'};
 `
 

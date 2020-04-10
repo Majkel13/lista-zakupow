@@ -35,7 +35,7 @@ const Container = styled.div`
 
 const NewItemForm = ({onSubmit, onChange, draft, onKeyPress}) =>(
     <Container>
-        <TextInput type='text' value={draft} onChange={onChange} onKeyPress={onKeyPress} />
+        <TextInput type='text' maxLength="30" value={draft} onChange={onChange} onKeyPress={onKeyPress} />
         <Button onClick={onSubmit}>+</Button>
     </Container>
 )

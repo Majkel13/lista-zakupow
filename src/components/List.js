@@ -4,13 +4,24 @@ import styled from 'styled-components';
 import ls from 'local-storage';
 
 const Container = styled.div`
-background: #2f2143;
-width: 80%;
-margin: 0 auto;
-border-radius: 25px;
-padding: 20px;
-margin-top: 30px;
-max-width: 680px;
+
+
+border: 1px solid #1969ba;
+    border-radius: 10px;
+    background: #1969ba;
+    background: -webkit-linear-gradient(top, #1969ba 0, #0f4174 100%);
+    background: linear-gradient(to bottom, #1969ba 0, #0f4174 100%);
+    -webkit-box-shadow: inset 0px 1px 1px 0px #A2D1FF;
+    box-shadow: inset 0px 1px 1px 0px #A2D1FF;
+    padding: 20px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 1.54em;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    max-width: 680px;
+    width: 80%;
 `
 
 const Header = styled.h1`
@@ -29,9 +40,9 @@ color: #b13418;
 const Row = styled.div`
 display: flex;
 justify-content: space-between;
-background: #343744;
 border-radius: 10px;
-padding: 14px;
+border-bottom: #fff solid;
+padding: 15px 5px 5px 10px;
 margin-bottom: 7px;
 margin-top: 7px;
 `
